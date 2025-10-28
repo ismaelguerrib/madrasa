@@ -48,13 +48,13 @@ Une **plateforme web collaborative** qui propose :
 ## 👥 6. Bénéficiaires
 
 - **Directs** :
-  - Enseignants (gain de temps, montée en compétence, entraide)
+  - Enseignants (gain de temps, montée en compétence, entraide, vision claire des capacité des enfants et compétences unifiées)
   - Associations (vision claire, outils de gestion)
   - Parents (accès à des informations pédagogiques utiles)
 
 - **Indirects** :
-  - Élèves (meilleure pédagogie, suivi individualisé)
-  - Communautés musulmanes (meilleure organisation de l'enseignement religieux)
+  - Élèves (meilleure pédagogie, suivi individualisé, cours adaptés à leurs capacités)
+  - Communauté musulmane (meilleure organisation de l'enseignement religieux)
 
 ---
 
@@ -77,7 +77,7 @@ Une **plateforme web collaborative** qui propose :
 
 ## 🔄 8. Canaux de distribution
 
-- Mawaqit
+- Mawaqit (?)
 
 ---
 
