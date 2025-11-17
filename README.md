@@ -3,12 +3,14 @@
 ---
 
 ## 🧭 1. Vision
-Permettre une révolution pédagogique et organisationnelle dans l’enseignement bénévole des sciences islamiques francophones en structurant les méthodes, en valorisant les enseignants, en accompagnant les administrations et en facilitant l’accès à un suivi éducatif transparent pour les familles.
+
+Une communauté musulmane française éduquée et impliquée dans son propre épanouissement.
 
 ---
 
 ## 🎯 2. Mission
-Créer une plateforme collaborative et intuitive qui centralise la gestion des cours, des classes et du suivi des élèves pour les associations islamiques, tout en favorisant le partage pédagogique entre enseignants bénévoles.
+
+Faciliter et enrichir l’enseignement des sciences islamiques francophones en structurant les méthodes d’enseignement, en accompagnant les administrations, en mettant en relation les acteurs et en facilitant l’accès à un suivi éducatif transparent pour les familles.
 
 ---
 
@@ -16,10 +18,10 @@ Créer une plateforme collaborative et intuitive qui centralise la gestion des c
 
 | Acteurs           | Problèmes rencontrés                                                                 |
 |-------------------|--------------------------------------------------------------------------------------|
-| **Enseignants**       | - Isolement pédagogique  <br> - Manque de formation <br> - Difficulté à créer des supports cohérents - Bénévolat ou activité annexe chronophage |
-| **Associations**      | - Gestion désorganisée (WhatsApp, Excel) <br> - Pas de vision d’ensemble des classes <br> - Pas d’outils de suivi - Isolement et pas d'outils adaptés |
-| **Parents**           | - Manque de transparence <br> - Peu d'informations sur les compétences acquises <br> - Communication difficile |
-| **Élèves**            | - Pédagogie peu adaptée aux niveaux <br> - Suivi irrégulier <br> - Difficulté à voir sa progression - Niveau des cours pas toujours satisfaisant |
+| **Enseignants**       | - Isolement pédagogique  <br> - Pas ou peu formés à enseigner <br> - Absence d’outils adaptés <br> - Difficulté à créer des supports cohérents <br> - Conditions de bénévolat souvent difficiles |
+| **Associations**      | - Gestion artisanale (WhatsApp, Excel) <br> - Vision d’ensemble inexistante <br> - Pas d’outils de suivi <br> - Surcharge administrative <br> - Isolement et manque de professionnalisation |
+| **Parents**           | - Manque de transparence <br> - Opacité des programmes <br> - Communication difficile <br> - Peu d’informations sur les compétences acquises |
+| **Élèves**            | - Pédagogie peu adaptée <br> - Suivi irrégulier <br> - Difficulté à voir leur progression <br> - Niveau variable des cours |
 
 ---
 
@@ -27,10 +29,10 @@ Créer une plateforme collaborative et intuitive qui centralise la gestion des c
 
 Une **plateforme web collaborative** qui propose :
 
-- 🧑‍🏫 Un espace pour **créer, mutualiser et corriger des cours** selon des compétences clés
-- 📊 Un système de **gestion de classe simplifié** pour les enseignants (présence, notes, progression)
-- 👨‍👩‍👧‍👦 Un **espace parents** pour suivre la progression de leur enfant
-- 🕌 Un **espace administration** pour les associations (gestion des classes, enseignants, rapports)
+- 🧑‍🏫 Un espace pour **créer, mutualiser, partager, échanger et corriger des cours** selon des compétences clés et un programme standardisé  
+- 📊 Un système de **gestion de classe simplifié** (présence, notes, progression, devoirs)  
+- 👨‍👩‍👧‍👦 Un **espace parents** permettant un suivi clair de la progression de leurs enfants  
+- 🕌 Un **espace administration** pour gérer les enseignants, classes, emplois du temps et rapports  
 
 ---
 
@@ -38,50 +40,48 @@ Une **plateforme web collaborative** qui propose :
 
 | Cible                     | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| **Enseignants bénévoles**     | Ceux qui donnent des cours dans les associations / mosquées                 |
-| **Responsables associatifs**  | Ceux qui organisent les cours, planifient, affectent les classes           |
-| **Parents d’élèves**          | Souhaitant mieux suivre l’apprentissage de leurs enfants                   |
-| **Élèves (indirectement)**    | Bénéficiaires d’une pédagogie plus claire et structurée                    |
+| **Enseignants bénévoles**     | Ceux qui préparent et dispensent les cours                                |
+| **Responsables associatifs**  | Ceux qui organisent, planifient, affectent les classes et gèrent la communication |
+| **Parents d’élèves**          | Ceux qui souhaitent suivre et accompagner l’apprentissage de leurs enfants |
+| **Élèves (indirectement)**    | Bénéficiaires d’une pédagogie plus claire, structurée et progressive      |
 
 ---
 
 ## 👥 6. Bénéficiaires
 
-- **Directs** :
-  - Enseignants (gain de temps, montée en compétence, entraide, vision claire des capacité des enfants et compétences unifiées)
-  - Associations (vision claire, outils de gestion)
-  - Parents (accès à des informations pédagogiques utiles)
+### 🎯 Directs
 
-- **Indirects** :
-  - Élèves (meilleure pédagogie, suivi individualisé, cours adaptés à leurs capacités)
-  - Communauté musulmane (meilleure organisation de l'enseignement religieux)
+- **Enseignants** : gain de temps, outils, collaboration, vision claire des compétences  
+- **Associations** : organisation professionnelle, centralisation, tableaux de bord  
+- **Parents** : transparence, meilleure compréhension des programmes, communication facilitée  
+
+### 🌱 Indirects
+
+- **Élèves** : meilleure pédagogie, suivi individualisé, progression plus lisible  
+- **Communauté musulmane** : renforcement durable de l’éducation islamique, montée en compétence collective  
 
 ---
 
 ## 🛠️ 7. Ressources à mobiliser
 
 ### 💻 Techniques
-- UX/UI Designer
-- Hébergement
+- UX/UI Designer  
+
 
 ### 👥 Humaines
-- Groupe pilote d’enseignants bénévoles Lumière sur lumière
+- Groupe pilote d’enseignants (ex : *Lumière sur lumière*)  
+- Testeurs (responsables, secrétaires, parents)
 
 
-### 📄 Contenu
-- Modèles de cours / compétences clés
-- Supports pédagogiques existants à structurer
-- Grilles d’évaluation ou référentiels à collecter
 
 ---
 
-## 🔄 8. Canaux de distribution
+## ✅ 9. Prochaines étapes
 
-- Mawaqit (?)
-
----
-
-## ✅ Prochaines étapes 
-
- **Rédiger un cahier des charges** plus détaillé et technique basé sur ce canevas 
-
+- **Entretiens qualitatifs** avec enseignants, responsables, secrétaires, parents  
+- **Compréhension complète** du fonctionnement d’une association d’éducation islamique  
+- **Évaluation quantitative** du marché (nombre d’associations, élèves, enseignants)  
+- **Définition du périmètre fonctionnel (MVP)**  
+- **Rédaction d’un cahier des charges** basé sur les retours terrain  
+- **Prototype UX** puis tests avec un groupe pilote  
+- **Développement de la première version**  
